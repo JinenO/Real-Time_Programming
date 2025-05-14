@@ -1,4 +1,4 @@
-package Week1;
+package Chapter1;
 
 import static org.junit.Assert.assertTrue;
 

@@ -1,4 +1,4 @@
-package Chapter2;
+package Chapter2.Activity2;
 
 public class MainThread {
     public static void main(String[] args) {

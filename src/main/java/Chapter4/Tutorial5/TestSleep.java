@@ -1,4 +1,4 @@
-package Chapter4.Tutorial4;
+package Chapter4.Tutorial5;
 
 public class TestSleep {
     public static void printSleep(int thread) {
@@ -20,7 +20,7 @@ public class TestSleep {
             t.start();
 
             try{
-                Thread.sleep(0);
+                Thread.sleep(100);
             }catch(InterruptedException e){
                 e.printStackTrace();
             }

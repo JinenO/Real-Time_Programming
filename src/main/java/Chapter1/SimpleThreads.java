@@ -1,4 +1,4 @@
-package Week1;
+package Chapter1;
 
 public class SimpleThreads {
     //For Week 1 task
