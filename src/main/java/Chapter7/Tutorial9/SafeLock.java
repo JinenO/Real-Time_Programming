@@ -1,4 +1,4 @@
-package Chapter5.Tutorial9;
+package Chapter7.Tutorial9;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
